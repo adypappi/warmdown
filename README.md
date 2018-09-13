@@ -1,0 +1,2 @@
+# warmdown
+Is the server is a physical  host or vm or container? what is the list of application's url (user services, management, monitoring, etc.) which login credentials will be used to connect to each url  what is the quick win network infrastructure and architecture of the application.  where the installation and management documentation of application  where is the exploitation documentation etc. To solve all theses problems  I have decided to create a Human Manageable Application Execution Context. 
