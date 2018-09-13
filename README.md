@@ -13,19 +13,19 @@ Application run in VM
 Application run in Bare Metal
 Application run in AppServer (Apache IIS nodejs Glassfish c-server, django, nginx, undertow, wildfire, etc.)
 
-→ First View is Host view :  List of Services Application Installed 
-Host Os name version kernel distrib, architecture
-Application software version
-Installation Main Folders
-Main Configuration Files
-Services/Daemons to run for application (Commands that Users have to use to run theses services and daemons)
-List of Url/Uri  with type of port, port number 
-User Credentials per Url/Uri
-dns name used per URL/URI  per services
-Services and daemon description 
-Quick broad architecture of application (services, daemon, module) 
-Management documentation 
-Installation documentation
-Update and Upgrade documentation
-Supervision documentation
-External dependencies (network, infra, application, services, credential, ws, db, amqp, cloud etc.)
+## First View is Host view :  List of Services Application Installed 
+* Host Os name version kernel distrib, architecture
+* Application software version
+*  Installation Main Folders
+*  Main Configuration Files
+*  Services/Daemons to run for application (Commands that Users have to use to run theses services and daemons)
+*  List of Url/Uri  with type of port, port number 
+*  User Credentials per Url/Uri
+*  dns name used per URL/URI  per services
+*  Services and daemon description 
+*  Quick broad architecture of application (services, daemon, module) 
+*  Management documentation 
+*  Installation documentation
+*  Update and Upgrade documentation
+*  Supervision documentation
+*  External dependencies (network, infra, application, services, credential, ws, db, amqp, cloud etc.)
